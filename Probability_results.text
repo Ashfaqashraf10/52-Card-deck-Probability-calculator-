@@ -1,0 +1,50 @@
+----- 52 Card Deck Probability Calculator -----
+
+Total Cards in Deck: 52
+
+Probability of Drawing an Ace:
+Favorable Outcomes = 4
+Sample Space = 52
+P(Ace) = 4/52 = 0.0769
+
+Probability of Drawing a Heart:
+Favorable Outcomes = 13
+Sample Space = 52
+P(Heart) = 13/52 = 0.2500
+
+Randomly Drawn Card:
+('7', 'Clubs')
+
+Probability of Drawing an Ace After One Card Removed:
+Remaining Aces = 4
+Remaining Cards = 51
+P(Ace) = 4/51 = 0.0784
+
+----- Probability Analysis Completed -----
+
+
+----- Another Possible Output -----
+
+----- 52 Card Deck Probability Calculator -----
+
+Total Cards in Deck: 52
+
+Probability of Drawing an Ace:
+Favorable Outcomes = 4
+Sample Space = 52
+P(Ace) = 4/52 = 0.0769
+
+Probability of Drawing a Heart:
+Favorable Outcomes = 13
+Sample Space = 52
+P(Heart) = 13/52 = 0.2500
+
+Randomly Drawn Card:
+('Ace', 'Hearts')
+
+Probability of Drawing an Ace After One Card Removed:
+Remaining Aces = 3
+Remaining Cards = 51
+P(Ace) = 3/51 = 0.0588
+
+----- Probability Analysis Completed -----
